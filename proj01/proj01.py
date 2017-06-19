@@ -7,4 +7,33 @@
 
 # If you complete extensions, describe your extensions here!
 
+print "Hello World"
+
+
+name = raw_input("Enter Your Name: ")
+print name
+
+age = raw_input('Enter your Age: ')
+print age
+
+age_int = int(age)
+
+print 100 - age
+
+print "name "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
